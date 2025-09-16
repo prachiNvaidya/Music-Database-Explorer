@@ -26,5 +26,7 @@
    ORDER BY number_of_songs DESC<br>
    LIMIT 10;<br>
 
-   ![alt text](image.jpg)
+### Generated Result:   
+
+   ![alt text](Images/artists.png)
    

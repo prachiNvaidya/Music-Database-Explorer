@@ -1,4 +1,4 @@
-# Music-DB-Explorer
+# Music-Database-Explorer
 ## Music Data Analysis with PostgreSQL
 ### This guided project uses PostgreSQL to analyze music datasets containing artists, albums, genres, customers purchasing history and listening activity, etc. to help generate meaningful insights through SQL queries.  
 
@@ -25,4 +25,6 @@
    GROUP BY ar.artist_id<br>
    ORDER BY number_of_songs DESC<br>
    LIMIT 10;<br>
+
+   ![alt text](image.jpg)
    
